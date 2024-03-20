@@ -1,5 +1,5 @@
 ### Showcase
-<img src="https://raw.githubusercontent.com/eldritch-theme/eldritch-wezterm/screenshot.png" alt="Screenshot"/><br/>
+<img src="screenshot.png" alt="Screenshot"/><br/>
 
 Eldritch is a community-driven dark theme that draws inspiration from the GMK Terror Below keycap set. The theme is meant for the Lovecraftian horror fans and the people who enjoy the darker side of life.
 

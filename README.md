@@ -9,6 +9,18 @@ Eldritch is a community-driven dark theme inspired by Lovecraftian horror. With 
 <img src="screenshot.png" alt="Screenshot"/><br/>
 
 ### Installation
+#### Main method
+1. In your wezterm config
+```
+local wezterm = require 'wezterm'
+local config = {}
+
+config.color_scheme = 'Eldritch'
+
+return config
+```
+
+#### From Source
 1. Download the `eldritch.toml` file from this directory.
 2. Place it in `~/.config/wezterm/colors/eldritch.toml` (or wherever your wezterm configuration is located).
 3. In your wezterm.lua file, add the following line:
